@@ -1,0 +1,15 @@
+body {
+	background-color: #34495e;
+}
+
+#main {
+/* đầy hộp login xuống 1 khoảng*/
+	margin-top: 150px;	
+}
+.panel-chuong {
+	border: none; /*bỏ viền trắng ở panel-heading khi nó có màu khác*/
+}
+.panel-chuong .panel-heading {
+	background-color: #2c3e50;
+	color: #fff;
+}
